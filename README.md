@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahamedsuhails
-- 👀 I’m interested in mobile application development.
+- 👀 Mobile application developer.
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on open source mobile application projects.
 - 📫 How to reach me .. suhias020official@gmail.com
