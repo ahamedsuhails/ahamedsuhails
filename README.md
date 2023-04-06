@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ahamedsuhails
-- 👀 Mobile application developer.
-- 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on open source mobile application projects.
+- 👋 Hi, I’m Ahamed Suhail S(@ahamedsuhails)
+- 👀 Software Engineer at Quest Global
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me .. suhias020official@gmail.com
 
 <!---
