@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahamed Suhail S(@ahamedsuhails)
 - 👀 Software Engineer at Quest Global
-- 💞️ Loves to work on open source projects.
+- 💞️ Loves programming.
 - 📫 How to reach me .. suhias020official@gmail.com
 
 <!---
