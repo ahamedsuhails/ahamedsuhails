@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ahamed Suhail S(@ahamedsuhails)
-- 👀 Software Engineer at Quest Global
-- 💞️ Loves programming.
-- 📫 How to reach me .. ahamedsuhails@outlook.com
+- 👀 Software Engineer 2 at Trimble Inc
+- 📫 How to reach me .. suhias020official@gmail.com
 
 <!---
 ahamedsuhails/ahamedsuhails is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
